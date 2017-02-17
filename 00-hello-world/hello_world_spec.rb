@@ -1,5 +1,5 @@
-gem 'minitest', '>= 5.0.0'
-require 'minitest/pride'
+#gem 'minitest', '>= 5.0.0' #this is says it requires minitest this version or higher
+require 'minitest/pride' #makes it more colorful
 require 'minitest/autorun'
 require_relative 'hello_world'
 
